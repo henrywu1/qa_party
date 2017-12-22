@@ -1,0 +1,7 @@
+#!/bin/bash
+
+input=$1
+
+if [ $input -gt 10 ]; then
+    echo "FIIIIIIIIII"
+fi
